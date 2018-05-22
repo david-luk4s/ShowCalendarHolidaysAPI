@@ -1,5 +1,5 @@
 # ShowCalendarHolidaysAPI
-Displaying Holidays from an API
+Calendar datepicker showing holidays of an api
 <img src="https://media.forgecdn.net/avatars/33/932/635903342050619605.png" alt="Calendar API">
 
 # Author
